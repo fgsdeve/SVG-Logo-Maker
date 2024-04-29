@@ -48,15 +48,15 @@ The following Node.js packages are crucial to the functionality of SVG Logo Make
 
 ### Educational Resources
 
-- **CSS-Tricks** for their excellent tutorials on SVG graphics, which have been instrumental in helping us understand and implement advanced SVG features.
+- **CSS-Tricks** for their excellent tutorials on SVG graphics, which have been instrumental in helping me understand and implement advanced SVG features.
 - **Stack Overflow** community for providing solutions to numerous issues encountered during development. Their extensive community-driven knowledge base is invaluable for troubleshooting and learning.
 
 ### Tooling and Libraries
 
 Special thanks to the developers and maintainers of the following Node.js packages:
 
-- **[readline-sync](https://www.npmjs.com/package/readline-sync)**: This package has enabled our application to interact smoothly with users through the command line, making it possible to gather user inputs synchronously.
-- **[Jest](https://jestjs.io/)**: Jest has been crucial for running our unit tests, ensuring that each component of SVG Logo Maker functions correctly before release. It has significantly streamlined our testing process.
+- **[readline-sync](https://www.npmjs.com/package/readline-sync)**: This package has enabled my application to interact smoothly with users through the command line, making it possible to gather user inputs synchronously.
+- **[Jest](https://jestjs.io/)**: Jest has been crucial for running  unit tests, ensuring that each component of SVG Logo Maker functions correctly before release. It has significantly streamlined our testing process.
 
 
 I also appreciate all the developers and authors of the articles, posts, and tutorials that have inspired and guided the development of SVG Logo Maker. Your shared knowledge and resources have been invaluable.
