@@ -1,0 +1,20 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A simple CLI for creating SVG logos",
+  "main": "app.js",
+
+  
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "author": "Fgsdeve",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
