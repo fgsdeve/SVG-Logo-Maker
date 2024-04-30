@@ -1,4 +1,4 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-    <rect x="75" y="25" width="150" height="150" fill="green" />
-    <text x="150" y="100" font-family="Arial" font-size="20" fill="white" text-anchor="middle">SVG</text>
+    <circle cx="150" cy="100" r="90" fill="red" />
+    <text x="150" y="100" font-family="Arial" font-size="20" fill="green" text-anchor="middle">SVG</text>
   </svg>

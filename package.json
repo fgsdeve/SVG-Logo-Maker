@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "A simple CLI for creating SVG logos",
   "main": "app.js",
-
-  
-
   "scripts": {
     "start": "node app.js",
     "test": "jest"
@@ -13,6 +10,7 @@
   "author": "Fgsdeve",
   "license": "ISC",
   "dependencies": {
+    "open": "^10.1.0",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
